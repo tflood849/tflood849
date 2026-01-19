@@ -4,7 +4,7 @@
 
 - <b>Active Directory Home Lab - Windows Server 2022 (windows 10/11)</b>
   - [Configuring On-premises Active Directory within Virtual Box](https://github.com/tflood849/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tflood849cc/azure-network-protocols)
+  
 
 <h2>🤳Connect with me:</h2>
 
