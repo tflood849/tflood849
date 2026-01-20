@@ -5,7 +5,8 @@
 - <b>Active Directory Home Lab - Windows Server 2022 (windows 10/11)</b>
   - [Configuring On-premises Active Directory within Virtual Box](https://github.com/tflood849/configure-ad)
   
-
+- <b>Ticketing System - Spiceworks </b>
+  - [IT Service Desk Portfolio – Ticketing & Troubleshooting (Spiceworks)](https://github.com/tflood849/ticketingsytem)
 <h2>🤳Connect with me:</h2>
 
 
