@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Virtual Box](https://github.com/tflood849/configure-ad)
   
 - <b>Ticketing System - Spiceworks </b>
-  - [Spiceworks: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Spiceworks: Ticket Lifecycle Examples](https://github.com/tflood849/ticket-lifecycle)
 <h2>🤳Connect with me:</h2>
 
 
